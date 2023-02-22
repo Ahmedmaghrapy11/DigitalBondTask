@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DigitalBondTask/static/css/main.cb74642d.css",
+    "main.js": "/DigitalBondTask/static/js/main.954cf729.js",
+    "index.html": "/DigitalBondTask/index.html",
+    "main.cb74642d.css.map": "/DigitalBondTask/static/css/main.cb74642d.css.map",
+    "main.954cf729.js.map": "/DigitalBondTask/static/js/main.954cf729.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb74642d.css",
+    "static/js/main.954cf729.js"
+  ]
+}
